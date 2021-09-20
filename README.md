@@ -8,4 +8,7 @@
 Vue, Nuxt js, JAMstack.
 Думайте о обо мне как о продолжении вашей команды.
 
+I am a web project consultant specializing in HTML, CSS, JavaScript and PHP. I create best-in-class web applications written in popular frameworks like Laravel, Tailwindcss, Jetstream, laravel-livewire. Vue, Nuxt js, JAMstack.
+Think of me as an extension of your team.
+
 > Мой принцип: Lifelong learning
