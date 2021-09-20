@@ -1,8 +1,8 @@
-# poliweb
+# 💻 PoliWeb
 
 <p align="center"><img src="https://poliweb.github.io/images/WebDevloper2.svg" width="400"></p>
 
-## PoliWeb on GitHub
+## ✋ PoliWeb on GitHub
 
 Я - консультирую по веб — проектам, специализирующийся на HTML, CSS, JavaScript и PHP. Я создаю лучшие в своем классе веб-приложения, написанные на популярных фреймворках, таких как Laravel, Tailwindcss, Jetstream, laravel-livewire.
 Vue, Nuxt js, JAMstack.
