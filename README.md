@@ -1,6 +1,6 @@
 # 💻 PoliWeb
 
-<p align="center"><img src="https://res.cloudinary.com/poliweb/image/upload/c_scale,w_400/v1639997474/screnshot2_axudbj.webp" width="400"></p>
+<p align="center"><img src="https://res.cloudinary.com/poliweb/image/upload/c_scale,h_880,w_1660/v1639997474/screnshot2_axudbj.webp" width="100%"></p>
 
 ## ✋ PoliWeb on GitHub
 
